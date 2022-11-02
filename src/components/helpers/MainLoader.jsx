@@ -10,8 +10,7 @@ const MainLoader = () => {
 
                 <div className="suspense_image ui-text-center">
                 
-                    {/* <span className='saidatech-loader white md onwhite'></span> */}
-                    <img src="../../../images/assets/loading....svg" alt="fatou-waitlist" />
+                        <span className='saidatech-loader white md onwhite'></span>
                 </div>
 
             </div>
